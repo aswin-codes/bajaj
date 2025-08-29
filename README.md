@@ -70,7 +70,7 @@ Returns operation code for the API.
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/aswin-codes/bajaj.git
-   cd bfhl
+   cd bajaj
    ```
 
 2. **Install dependencies:**
